@@ -50,7 +50,7 @@
     "@babel/preset-env": "^7.14.2",
     "@babel/preset-typescript": "^7.13.0",
     "@graphql-codegen/cli": "1.21.4",
-    "@graphql-codegen/near-operation-file-preset": "^1.18.0",
+    "@graphql-codegen/near-operation-file-preset": "^2.1.6",
     "@graphql-codegen/plugin-helpers": "^1.18.4",
     "@graphql-codegen/typed-document-node": "^1.18.5",
     "@graphql-codegen/typescript": "^1.22.0",
